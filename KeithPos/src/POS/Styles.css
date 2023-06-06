@@ -1,0 +1,53 @@
+#nav{
+    -fx-background-color:  #51414F;
+}
+
+#navbtn{
+        -fx-background-color: #51414F;
+}
+#navbtn:hover{
+        -fx-background-color:#673147;
+}
+#btn{
+    -fx-background-color:  #953553;
+}
+#btn:hover{
+        -fx-background-color:#673147;
+}
+
+
+#price{
+        -fx-background-color:#A95C68;
+}
+
+#pname{
+     -fx-background-color: rgba(59,59,59,0.7);
+     -fx-text-fill: #fff;
+    
+}
+#menubar{
+  -fx-background-color: #AA98A9;
+}
+
+#payment{
+    -fx-background-color: #fff;
+    -fx-border-color: #3b3b3b;
+    -fx-border-radius: 5px;
+    }
+
+#search{
+    -fx-background-color: #fff;
+    -fx-border-color: #fff;
+    -fx-border-radius: 10px;
+}
+
+#numpad:hover{
+    -fx-background-color: #953553;
+    
+}
+
+#rootPane{ 
+    -fx-border-color: #3b3b3b; 
+}
+
+
